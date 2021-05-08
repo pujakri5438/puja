@@ -23,7 +23,7 @@ nav{
    
     height:80px;
     width:100%;
-    background-color: blue;
+    background-color: #d9f87d;
 }
 nav a{
     color: rgb(1, 19, 7);
@@ -48,10 +48,10 @@ nav #icon{
     display: none;
 }
 body{
-    background-color:rgb(13, 243, 82);
+/*     background-color:rgb(13, 243, 82); */
     background-image: url("../img/bg.jpg"); 
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position: 500ox;
     
 }
