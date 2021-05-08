@@ -48,8 +48,8 @@ nav #icon{
     display: none;
 }
 body{
-/*     background-color:rgb(13, 243, 82); */
-    background-image: url("../img/bg.jpg"); 
+    background-color:rgb(61, 83, 68);
+/*     background-image: url("../img/bg.jpg");  */
     background-repeat: no-repeat;
     background-size: auto;
     background-position: 500ox;
